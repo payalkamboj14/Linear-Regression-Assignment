@@ -20,5 +20,5 @@ Ipython notebook with detailed code solely used for this assignment. This clearl
 ### 2. Linear Regression-Subjective Questions-Payal.pdf
 pdf file with answers to given subjective questions
 
-### 2. day.csv
+### 3. day.csv
 Dataset given as input to the model
